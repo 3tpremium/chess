@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-ChineseChessApiProjectApplication<ChineseChessTraining>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "com.ChineseChessApiProjectApplication",
+            "projectName": "ChineseChessTraining",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}
